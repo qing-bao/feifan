@@ -1,0 +1,25 @@
+#lianxi{
+			width:1000px;
+			height: 600px;
+			margin: 0px auto;
+			background-color: rgb(232,232,232);
+		}
+		#e1{
+			width: 800px;
+			height: 500px;
+			margin: 15px auto;
+		}
+		#e1-dt img{
+			width: 800px;
+		}
+		.a1{
+			margin: 23px ;
+			float: left;
+		}
+		.a1 img{
+			height: 130px;
+		}
+		ul li{
+			font-size: 14px;
+			list-style: none;
+		}

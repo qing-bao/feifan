@@ -1,0 +1,29 @@
+table{
+			background-color: rgb(232,232,232);
+		}
+		td{
+			text-align: center;
+			padding: 10px;
+		}
+		#top-span span{
+			font-size: 16px;							/*导航栏*/
+			padding-left: 10px;
+			display: inline-block;
+		}
+		#top-span span:hover{
+			width: 100px;
+			font-size: 20px;
+			color:red;
+		}
+
+
+
+		#zuidi{
+			width: 1000px;
+			height: 60px;
+			background-color: rgb(31,33,46);				/*底部*/
+		}
+		#zuidi img{
+			padding-top:20px; 
+			padding-left: 240px;
+		}
